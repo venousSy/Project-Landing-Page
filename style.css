@@ -1,0 +1,27 @@
+* {
+  border: solid red 2px;
+}
+.nav-bar {
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.hero {
+  background-color: #1f2937;
+  color: white;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.img {
+  width: 50%;
+}
